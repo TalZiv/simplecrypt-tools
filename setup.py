@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='SimpleCrypt-Tools',
-     version='0.2',
+     version='0.2.1',
      author="Tal Ziv",
      author_email="tal.ziv.w@gmail.com",
      description="A RSA utility class",

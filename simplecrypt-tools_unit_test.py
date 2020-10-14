@@ -3,7 +3,6 @@ from Crypto.PublicKey import RSA
 import unittest
 import base64
 
-
 class SimpleCryptToolsTests(unittest.TestCase):
 
     def setUp(self):
